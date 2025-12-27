@@ -1,0 +1,51 @@
+# ============ Python Cache ============
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ============ Virtual Environments ============
+venv/
+env/
+.venv/
+
+# ============ VS Code ============
+.vscode/
+
+# ============ PyCharm / IDE ============
+.idea/
+
+# ============ OS Files ============
+.DS_Store
+Thumbs.db
+
+# ============ Logs ============
+*.log
+
+# ============ Build / Distribution ============
+build/
+dist/
+*.egg-info/
+
+# ============ Jupyter ============
+.ipynb_checkpoints/
+
+# ============ Temporary / Backup Files ============
+*.tmp
+*.bak
+*.swp
+
+# ============ Executables ============
+*.exe
+
+# ============ Environment Variables ============
+.env
+
+# ============ Media / Downloads ============
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.zip
+*.rar
+*.7z
